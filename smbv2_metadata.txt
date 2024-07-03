@@ -1,0 +1,162 @@
+Timestamp: 2014-06-19 09:16:13.483536
+Source IP: 192.168.1.78
+Destination IP: 192.168.1.53
+Source Port: 55770
+Destination Port: 445
+SMB Command: 5
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:13.483786
+Source IP: 192.168.1.53
+Destination IP: 192.168.1.78
+Source Port: 445
+Destination Port: 55770
+SMB Command: 5
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:13.484037
+Source IP: 192.168.1.78
+Destination IP: 192.168.1.53
+Source Port: 55770
+Destination Port: 445
+SMB Command: 5
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:13.484131
+Source IP: 192.168.1.53
+Destination IP: 192.168.1.78
+Source Port: 445
+Destination Port: 55770
+SMB Command: 5
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:13.484358
+Source IP: 192.168.1.78
+Destination IP: 192.168.1.53
+Source Port: 55770
+Destination Port: 445
+SMB Command: 5
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:13.484487
+Source IP: 192.168.1.53
+Destination IP: 192.168.1.78
+Source Port: 445
+Destination Port: 55770
+SMB Command: 5
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:13.484701
+Source IP: 192.168.1.78
+Destination IP: 192.168.1.53
+Source Port: 55770
+Destination Port: 445
+SMB Command: 5
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:13.484801
+Source IP: 192.168.1.53
+Destination IP: 192.168.1.78
+Source Port: 445
+Destination Port: 55770
+SMB Command: 5
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:14.150293
+Source IP: 192.168.1.78
+Destination IP: 192.168.1.53
+Source Port: 55770
+Destination Port: 445
+SMB Command: 5
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:14.151601
+Source IP: 192.168.1.53
+Destination IP: 192.168.1.78
+Source Port: 445
+Destination Port: 55770
+SMB Command: 5
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:14.199287
+Source IP: 192.168.1.78
+Destination IP: 192.168.1.53
+Source Port: 55770
+Destination Port: 445
+SMB Command: 5
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:14.231198
+Source IP: 192.168.1.53
+Destination IP: 192.168.1.78
+Source Port: 445
+Destination Port: 55770
+SMB Command: 5
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:14.232191
+Source IP: 192.168.1.78
+Destination IP: 192.168.1.53
+Source Port: 55770
+Destination Port: 445
+SMB Command: 5
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:14.232251
+Source IP: 192.168.1.53
+Destination IP: 192.168.1.78
+Source Port: 445
+Destination Port: 55770
+SMB Command: 5
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:14.232480
+Source IP: 192.168.1.78
+Destination IP: 192.168.1.53
+Source Port: 55770
+Destination Port: 445
+SMB Command: 8
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:14.232750
+Source IP: 192.168.1.53
+Destination IP: 192.168.1.78
+Source Port: 445
+Destination Port: 55770
+SMB Command: 8
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:14.233169
+Source IP: 192.168.1.78
+Destination IP: 192.168.1.53
+Source Port: 55770
+Destination Port: 445
+SMB Command: 6
+File Name: N/A
+File Size: N/A
+
+Timestamp: 2014-06-19 09:16:14.233304
+Source IP: 192.168.1.53
+Destination IP: 192.168.1.78
+Source Port: 445
+Destination Port: 55770
+SMB Command: 6
+File Name: N/A
+File Size: N/A
+
