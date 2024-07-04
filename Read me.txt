@@ -1,8 +1,8 @@
 
 *Run the Script:
-Download smb python script 
-Open the script and edit with your own path for pcap_file and output_file and save it.
-Open a Command Prompt and navigate to the directory where the script is saved. 
+Download smb python script.
+Open a Command Prompt.
+Put the directory of the input pcap file (i.e /path/to/input.pcap) and output file path (i.e /path/to/output.json) next to script. 
 Run the script using Python:
 
-> python smb.py
+    > python smb.py /path/to/input.pcap /path/to/output.json
