@@ -1,4 +1,5 @@
-
+import argparse
+import os
 import pyshark
 import json
 
@@ -43,13 +44,15 @@ def save_metadata(smb_packets, output_file):
             f.write(f"File Size: {data['file_size']}\n")
             f.write("\n")
 
-# Path to the uploaded PCAP file
-pcap_file = r'C:\\Users\\Username\\Downloads\\smb.pcap'
+def main():
+    parser = argparse.ArgumentParser(description='Read a pcap file.')
+    parser.add_argument('pcap_file', type=str, help='Path to the pcap file')
+    parser.add_argument('output_json', type=str, help='Path to the output JSON file')
 
-# Path to the outputted file
-output_file = r'C:\\Users\Username\\Documents\\smb.json'
+    args = parser.parse_args()
+    smb_metadata = extract_smb_packets(args.pcap_file)
+    save_metadata(smb_metadata, args.output_json)
+    print(f"Extracted SMB metadata saved to {args.output_json}")
 
-smb_metadata = extract_smb_packets(pcap_file)
-save_metadata(smb_metadata, output_file)
-
-print(f"Extracted SMB metadata saved to {output_file}")
+if __name__ == '__main__':
+    main()
