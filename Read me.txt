@@ -1,6 +1,7 @@
 
 *Run the Script:
 Download smb python script 
+Open the script and edit with your own path for pcap_file and output_file and save it.
 Open a Command Prompt and navigate to the directory where the script is saved. 
 Run the script using Python:
 
